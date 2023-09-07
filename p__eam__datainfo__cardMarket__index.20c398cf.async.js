@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[541],{38702:function(t,e,n){n.r(e);var r=n(85893),a=function(){return(0,r.jsx)(r.Fragment,{children:"CardMarketView"})};e.default=a}}]);
